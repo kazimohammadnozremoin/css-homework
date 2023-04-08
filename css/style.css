@@ -1,0 +1,126 @@
+h3{
+	font-size: 50px; color: darkred;border: 7px dotted blueviolet;
+
+}
+
+
+<html>
+<head>
+<style>
+body { 
+  background: lightblue 
+}
+</style>
+</head>
+<body>
+
+<h1>The background Property</h1>
+
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+<p>This is some text</p>
+
+</body>
+</html>
+
+
+<html>
+<head>
+<style>
+h1 {
+  border: 9px solid red;
+}
+
+h2 {
+  border: 7px dotted blue;
+}
+
+div {
+  border: double;
+}
+</style>
+</head>
+<body>
+
+<h1>A heading with a solid red border</h1>
+
+<h2>A heading with a dotted blue border</h2>
+
+<div>A div element with a double border.</div>
+
+</body>
+</html>
+
+
+<html>
+<head>
+<style>
+h1, h2, div {
+  background-color: lightgreen;
+}
+
+h1 {
+  border-block: 7px solid red;
+}
+
+h2 {
+  border-block: 5px dotted blue;
+}
+
+div {
+  border-block: double;
+}
+</style>
+</head>
+<body>
+
+<h1>A heading with a solid red border in the block direction</h1>
+
+<h2>A heading with a dotted blue border in the block direction</h2>
+
+<div>A div element with a double border in the block direction.</div>
+
+</body>
+</html>
+
+<html>
+<head>
+<style>
+img {
+  filter: grayscale(100%);
+}
+</style>
+</head>
+<body>
+
+<h1>The filter Property</h1>
+
+<p>Convert the image to grayscale:</p>
+
+<img src=images/"indianman.jpg" alt="indian man smiling" width="300" height="400">
+
+
+</body>
+</html>
+
